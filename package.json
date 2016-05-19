@@ -1,0 +1,31 @@
+{
+  "name": "lh65-req-header-parser",
+  "version": "0.0.0",
+  "description": "Request Header Parser for FreeCodeCamp. https://www.freecodecamp.com/challenges/request-header-parser-microservice",
+  "author": "Lewis Horwood @lewiebot",
+  "contributors": [],
+  "dependencies": {
+    "express": "",
+    "serve-favicon": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Lewis65/request-header-parser.git"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+      "node": "4.4.4"
+  },
+  "bugs": {
+    "url": "https://github.com/Lewis65/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/Lewis65/timestamp-microservice#readme",
+  "devDependencies": {},
+  "keywords": [
+    "freecodecamp"
+  ],
+  "license": "ISC"
+}
