@@ -6,23 +6,23 @@
   "contributors": [],
   "dependencies": {
     "express": "",
-    "serve-favicon": ""
+    "accepts": ""
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/Lewis65/request-header-parser.git"
   },
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "engines": {
       "node": "4.4.4"
   },
   "bugs": {
-    "url": "https://github.com/Lewis65/timestamp-microservice/issues"
+    "url": "https://github.com/Lewis65/request-header-parser/issues"
   },
-  "homepage": "https://github.com/Lewis65/timestamp-microservice#readme",
+  "homepage": "https://github.com/Lewis65/request-header-parser#readme",
   "devDependencies": {},
   "keywords": [
     "freecodecamp"
